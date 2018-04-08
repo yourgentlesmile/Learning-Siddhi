@@ -26,6 +26,7 @@ Tips:
 > * RabbitMQ
 > * MQTT
 > * WebSocket
+
 不同的数据来源在source标签中有着不同的属性配置
 ### source Mapper
 在source标签中使用@map标签可以将数据转换成预期的数据格式，目前支持转换成如下几种：
